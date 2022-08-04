@@ -3,5 +3,6 @@ fun main(args: Array<String>) {
     var num2: Int = 3
 
     var sum: Int = num1 + num2
+    println("The sum is: $sum")
 
 }
